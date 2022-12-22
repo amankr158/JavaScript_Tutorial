@@ -1,0 +1,21 @@
+//Object declaration
+const id={
+
+    Name : "Aman",
+    Age : 28,
+    Sex: 'Male',
+    Nationality: "Indian"
+}
+
+console.log(id)
+
+//Adding more items to object
+id['Addhar']= 625690012233
+console.log(id)
+
+//Replacing object values
+id['Name']= 'Aman Kumar'
+console.log(id)
+
+//Acessing any particular object item
+console.log(id['Name'])
