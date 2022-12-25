@@ -8,3 +8,6 @@ console.log(x[3])
 
 //finding length
 console.log(x.length)
+
+//finding data type of array
+console.log(typeof(x))
